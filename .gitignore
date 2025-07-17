@@ -37,3 +37,4 @@ chiron.log*
 
 /build
 /.gradle
+/demo
