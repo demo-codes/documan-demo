@@ -40,7 +40,7 @@ To run the app locally:
 
 2. Run the application:
     - directly in IntelliJ by running `DocuManApplication.java`
-    - or with Gradle:
+    - or with Gradle:  
         on Windows
         ```
         .\gradlew.bat bootRun
